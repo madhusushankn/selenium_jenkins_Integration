@@ -19,5 +19,6 @@ public class logintoFacebook {
     @Test(priority = 1)
     public void test2(){
         System.out.println("This test executing through jenkins");
+        System.out.println("heheheheheehe");
     }
 }
