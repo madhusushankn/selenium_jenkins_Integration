@@ -16,6 +16,8 @@ public class logintoFacebook {
         driver.manage().deleteAllCookies();
         driver.get("https://www.facebook.com");
     }
+    /*
+    */
     @Test(priority = 1)
     public void test2(){
         System.out.println("This test executing through jenkins");
